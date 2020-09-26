@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+/Users/cylindrusskary.torresvargas/Desktop/UVAQ/3 semestre/Estructura de datos/Tareas/.metadata/.plugins/org.eclipse.jdt.core
